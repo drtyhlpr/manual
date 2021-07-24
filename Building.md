@@ -36,7 +36,7 @@ sudo apt install unzip git gdb curl cmake libx11-dev libglu1-mesa-dev libxrandr-
 
 On Arch Linux:
 ```bash
-pacman -S git wget gcc gdb make cmake tar unzip zip curl jq python
+pacman -S git wget gcc gdb make cmake tar unzip zip curl jq python pkg-config
 ```
 
 ## Building Rack
